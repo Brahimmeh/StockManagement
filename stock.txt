@@ -1,0 +1,8 @@
+Produit       Quantite
+Pr102         12
+Pr308         120
+Pr450         45
+Pr658         210
+Pr965         10
+Pr564         5
+Pr100         23
